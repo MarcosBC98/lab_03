@@ -1,0 +1,3 @@
+No subimos los datasets porque dan problemas por el peso que tienen, y github no me deja subirlos. 
+
+Añado este archivo .txt porque no me permite subir la carpeta vacía.
